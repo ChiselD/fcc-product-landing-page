@@ -2,3 +2,8 @@ body {
   color: rgb(5,5,5);
   background-color: lightblue;
 }
+
+#header-img {
+  width: 60px;
+  height: auto;
+}
