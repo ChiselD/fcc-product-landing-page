@@ -7,3 +7,26 @@ body {
   width: 60px;
   height: auto;
 }
+
+#nav-bar {
+  float: right;
+  display: inline-block;
+  margin: 20px 60px;
+}
+
+#nav-bar li {
+  display: inline-block;
+  padding: 20px;
+  margin-left: 20px;
+  border: 1px dotted black;
+  width: 80px;
+}
+
+#nav-bar a {
+  color: black;
+  text-decoration: none;
+}
+
+#nav-bar a:hover {
+  font-weight: bold;
+}
