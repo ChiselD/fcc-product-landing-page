@@ -3,6 +3,11 @@ body {
   background-color: lightblue;
 }
 
+#content {
+  margin: 20px;
+  padding: 20px;
+}
+
 #header-img {
   width: 60px;
   height: auto;
