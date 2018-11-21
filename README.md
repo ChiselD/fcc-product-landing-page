@@ -1,4 +1,5 @@
-This project is currently NOT FUNCTIONAL
+This project is FUNCTIONAL and you can preview it here:<br />
+http://htmlpreview.github.io/?https://github.com/ChiselD/fcc-product-landing-page/blob/master/index.html
 
 
 User Story #1: My product landing page should have a header element with a corresponding id="header".
